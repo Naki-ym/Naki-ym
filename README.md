@@ -1,7 +1,8 @@
 # 👋 こんにちは、Naki-ymです！
 
 ## 🚀 自己紹介
-フルスタック開発者として、新しい技術を学ぶことが大好きです。ユーザー体験を向上させるアプリケーションの開発に情熱を持っています。
+フルスタック開発者として、新しい技術を学ぶことが好きです。
+自分のアイデアを活かし生活を便利に、楽しくすることがモチベーションです。
 
 ## 🛠️ 技術スタック
 ### フロントエンド
@@ -29,59 +30,9 @@
 ## 📊 GitHub統計
 ![Naki-ym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naki-ym&show_icons=true&theme=radical)
 
-## 🔥 最近の活動
-<!--START_SECTION:activity-->
-1. 🚀 新しいプロジェクトを開始
-2. 📚 新しい技術を学習中
-3. 🐛 バグ修正とコード改善
-<!--END_SECTION:activity-->
-
 ## 📈 最も使用されている言語
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naki-ym&layout=compact&theme=radical)
 
-## 🌱 現在学習中
-- クラウドネイティブアーキテクチャ
-- マイクロサービス
-- AI/ML技術
-
-## 💼 プロジェクト
-### 🎯 メインプロジェクト
-- **[プロジェクト名]** - プロジェクトの説明
-- **[プロジェクト名]** - プロジェクトの説明
-
-### 🔧 その他のプロジェクト
-- **[プロジェクト名]** - プロジェクトの説明
-
 ## 📫 連絡先
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [LinkedInプロフィール](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- 🌐 ポートフォリオ: [ポートフォリオサイト](https://your-portfolio.com)
-
-## 🎯 目標
-- オープンソースプロジェクトへの貢献
-- 技術ブログの執筆
-- コミュニティでの技術共有
-
-## ⚡ 趣味
-- 🎮 ゲーム開発
-- 📖 技術書を読む
-- 🎵 音楽を聴く
-- 🏃‍♂️ ランニング
-
-## 📚 おすすめの技術書
-- 「Clean Code」- Robert C. Martin
-- 「Design Patterns」- Gang of Four
-- 「The Pragmatic Programmer」- Andrew Hunt & David Thomas
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naki-ym&style=flat-square&color=blue" alt="プロフィールビュー" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Naki-ym">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+- 📧 Email: [nakiym.dev@gmail.com](mailto:nakiym.dev@gmail.com)
+- 🐦 Twitter: [@nakiymRuby](https://x.com/nakiymRuby)
