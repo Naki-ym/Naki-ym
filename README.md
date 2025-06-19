@@ -54,4 +54,4 @@
 
 ## 📫 Contact
 - 📧 Email: [nakiym.dev@gmail.com](mailto:nakiym.dev@gmail.com)
-- 🐦 Twitter: [@nakiymRuby](https://x.com/nakiymRuby)
+- 🐦 X: [@nakiymRuby](https://x.com/nakiymRuby)
