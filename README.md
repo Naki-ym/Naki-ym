@@ -46,6 +46,16 @@ My motivation is to make life more convenient and enjoyable by bringing my ideas
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naki-ym&layout=compact&theme=radical)
 
+## 🏆 GitHub Profile Trophy
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Naki-ym&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📊 GitHub Profile Summary Cards
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naki-ym&theme=radical)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naki-ym&theme=radical)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naki-ym&theme=radical)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naki-ym&theme=radical)
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naki-ym&theme=radical&utcOffset=9)
+
 ## 📫 Contact
 - 📧 Email: [nakiym.dev@gmail.com](mailto:nakiym.dev@gmail.com)
 - 🐦 Twitter: [@nakiymRuby](https://x.com/nakiymRuby)
