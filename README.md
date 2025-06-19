@@ -40,21 +40,14 @@ My motivation is to make life more convenient and enjoyable by bringing my ideas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
-![Naki-ym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naki-ym&show_icons=true&theme=radical)
+## 📊 GitHub Profile Summary Cards
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naki-ym&theme=radical)
 
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naki-ym&layout=compact&theme=radical)
 
 ## 🏆 GitHub Profile Trophy
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Naki-ym&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📊 GitHub Profile Summary Cards
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naki-ym&theme=radical)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naki-ym&theme=radical)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naki-ym&theme=radical)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naki-ym&theme=radical)
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naki-ym&theme=radical&utcOffset=9)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Naki-ym&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4)
 
 ## 📫 Contact
 - 📧 Email: [nakiym.dev@gmail.com](mailto:nakiym.dev@gmail.com)
